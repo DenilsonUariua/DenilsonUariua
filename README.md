@@ -6,4 +6,4 @@ I'm Denilson Uariua, a passionate developer with a keen interest in ReactJS and 
 
 Let's push the boundaries of innovation together and create amazing digital experiences! 🚀💻
 
-https://github-readme-stats.vercel.app/api?username=denilsonUariua&show_icons=true&theme=radical
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denilsonUariua&show_icons=true&theme=radical)
